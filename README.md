@@ -35,7 +35,8 @@ To contribute to future-ready urban infrastructure and smart city development, c
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/) (add your link here)
+- [LinkedIn] (linkedin.com/in/sukhvinder-singh-urbanplanner)
+
 - 📍 Location: India  
 - 💼 Open to internships, research roles, and smart city projects
 
